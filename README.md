@@ -10,4 +10,6 @@ Hello World输出情况：
 ![image](https://github.com/3017218159/HelloWpf/blob/master/2.png)  
 命令行参数依次输出：  
 ![image](https://github.com/3017218159/HelloWpf/blob/master/3.png)
-![image](https://github.com/3017218159/HelloWpf/blob/master/4.png)
+![image](https://github.com/3017218159/HelloWpf/blob/master/4.png)  
+在MainWindow中添加文本框，显示文本Hello World！，效果如下：  
+![image](https://github.com/3017218159/HelloWpf/blob/master/5.png)
